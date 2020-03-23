@@ -1,0 +1,12 @@
+My associate id:
+845165
+Other team members:
+844989,845032,845143
+Team lead:
+845165
+My Role in team:
+1.Json Server
+2.Angular Services
+I was strong in:
+1.Routing
+2.Angular Services
